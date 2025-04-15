@@ -1,4 +1,4 @@
-# 📊 FDA Lab Task – Power BI Report
+# 📊 Financial Data Analytics – Power BI Report
 
 This repository contains a Power BI report developed for the **FDA Lab Task** by **Aliyan Ahmad (22i-7479)**, as part of coursework at FAST-NUCES Islamabad.
 
@@ -8,7 +8,7 @@ The objective of this report is to analyze and visualize data related to the lab
 
 ## 📁 Files Included
 
-- `Aliyan Ahmad (22i-7479) FDA Lab Task.pbix`: The main Power BI file containing all data models, visuals, and insights.
+- `Aliyan Ahmad 1.pbix`: The main Power BI file containing all data models, visuals, and insights.
 - `README.md`: Project documentation.
 
 ## 📊 Key Features
