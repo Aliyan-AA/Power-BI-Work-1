@@ -1,10 +1,10 @@
 # 📊 Financial Data Analytics – Power BI Report
 
-This repository contains a Power BI report developed for the **FDA Lab Task** by **Aliyan Ahmad (22i-7479)**, as part of coursework at FAST-NUCES Islamabad.
+This repository contains a Power BI report developed for the **Financial Data Analytics** by **Aliyan Ahmad**, as part of coursework at FAST-NUCES Islamabad.
 
 ## 🔍 Project Overview
 
-The objective of this report is to analyze and visualize data related to the lab task assigned in the **Foundations of Data Analytics (FDA)** course. The dashboard provides interactive visual insights, trends, and summaries derived from the given dataset.
+The objective of this report is to analyze and visualize data related to the lab task assigned in the **Financial Data Analytics (FDA)** course. The dashboard provides interactive visual insights, trends, and summaries derived from the given dataset.
 
 ## 📁 Files Included
 
